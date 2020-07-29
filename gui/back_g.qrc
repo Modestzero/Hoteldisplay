@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="tianqi">
+    <file>slice_0_0.png</file>
+    <file>slice_0_1.png</file>
+    <file>slice_0_2.png</file>
+    <file>slice_0_3.png</file>
+    <file>slice_0_4.png</file>
+    <file>slice_0_5.png</file>
+    <file>slice_0_6.png</file>
+  </qresource>
+  <qresource prefix="time">
+    <file>rili.png</file>
+  </qresource>
+</RCC>
